@@ -1,0 +1,55 @@
+body {
+    background-color: blue;
+    color: yellow;
+}
+
+.div1 {
+    background-color: yellow;
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+}
+.meio{
+    display: flex;
+}
+.div2{
+    background-color: yellow;
+    width: 20%;
+    height: 250px;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.div3{
+    background-color: yellow;
+    width: 20%;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.div4{
+    background-color: yellow;
+    width: 50%;
+    height: 200px;
+    margin-top: -225px;
+    margin-left: 10%;
+}
+.cima{
+    display: flex;
+}
+.div1-1{
+    background-color: yellow;
+    margin-left: 10%;
+    width: 80%;
+    height: 250px;
+    margin-top: 40px;
+}
+.div4-1{
+    background-color: yellow;
+    margin-left: 10%;
+    width: 50%;
+    height: 250px;
+    margin-top: 40px;
+}
+.baixo{
+    display: flex;
+}
